@@ -44,7 +44,11 @@
   "later_shots_require_visual_review_of_test_outputs": true,
   "github_account_verified": "benpaoy-dot",
   "candidate_repository": "benpaoy-dot/zizuobao",
-  "repository_destination_status": "candidate_only_not_uploaded",
+  "repository_destination_status": "UPLOADED_CURRENT_PRODUCTION_DRAFT",
   "official_documentation_fetched": "https://developers.openai.com/api/docs/guides/image-generation",
-  "checked_date": "2026-10-28"
+  "checked_date": "2026-10-28",
+  "repository_url": "https://github.com/benpaoy-dot/zizuobao",
+  "first_verified_upload_commit": "5b9d52f3f1a65c9b05745ce2b5a814d4e32a3b03",
+  "repository_verified_date": "2026-10-31",
+  "upload_scope": "当前制作包、Obsidian交接笔记与ZIP；实际首帧仍为0张"
 }

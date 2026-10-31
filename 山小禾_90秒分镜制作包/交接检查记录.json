@@ -8,5 +8,8 @@
   "frontmatter_and_fences": "structurally_checked",
   "obsidian_reading_view": "not_automated_in_this_run",
   "secret_value_pattern_matches": 0,
-  "zip_includes_all_package_files": true
+  "zip_includes_all_package_files": true,
+  "github_repository": "https://github.com/benpaoy-dot/zizuobao",
+  "github_status": "CURRENT_DRAFT_UPLOADED",
+  "first_verified_upload_commit": "5b9d52f3f1a65c9b05745ce2b5a814d4e32a3b03"
 }
