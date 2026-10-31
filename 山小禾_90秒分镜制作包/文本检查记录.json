@@ -1,0 +1,11 @@
+{
+  "shot_count": 18,
+  "total_seconds": 90,
+  "prompt_files": 18,
+  "reference_crops": 3,
+  "actual_generated_frames": 0,
+  "voiceover_characters": 206,
+  "references_exist": true,
+  "image_prompts_static": "人工文本自审；实际图片未生成",
+  "visual_review": "仅检查原图及原图裁切；未生成的分镜不能通过视觉验收"
+}

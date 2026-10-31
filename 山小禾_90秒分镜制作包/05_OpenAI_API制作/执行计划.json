@@ -1,0 +1,50 @@
+{
+  "status": "BLOCKED_MISSING_OPENAI_API_KEY",
+  "paid_requests_sent": 0,
+  "actual_images_generated": 0,
+  "planned_model": "gpt-image-2",
+  "planned_size": "2048x1152",
+  "planned_quality": "high",
+  "format": "png",
+  "images_per_shot": 1,
+  "cli": "Codex imagegen/scripts/image_gen.py edit",
+  "sdk_version_installed": "3.40.0",
+  "test_shots": [
+    {
+      "id": "SH02",
+      "references": [
+        "01_角色参考/山小禾_正面_原图裁切.png",
+        "01_角色参考/山小禾_侧面_原图裁切.png"
+      ],
+      "prompt_file": "05_OpenAI_API制作/纯图片提示词/SH02.txt",
+      "planned_output": "03_待生成首帧/SH02.png",
+      "execution_status": "NOT_GENERATED"
+    },
+    {
+      "id": "SH05",
+      "references": [
+        "01_角色参考/山小禾_正面_原图裁切.png",
+        "01_角色参考/山小禾_侧面_原图裁切.png"
+      ],
+      "prompt_file": "05_OpenAI_API制作/纯图片提示词/SH05.txt",
+      "planned_output": "03_待生成首帧/SH05.png",
+      "execution_status": "NOT_GENERATED"
+    },
+    {
+      "id": "SH09",
+      "references": [
+        "01_角色参考/山小禾_正面_原图裁切.png",
+        "01_角色参考/山小禾_侧面_原图裁切.png"
+      ],
+      "prompt_file": "05_OpenAI_API制作/纯图片提示词/SH09.txt",
+      "planned_output": "03_待生成首帧/SH09.png",
+      "execution_status": "NOT_GENERATED"
+    }
+  ],
+  "later_shots_require_visual_review_of_test_outputs": true,
+  "github_account_verified": "benpaoy-dot",
+  "candidate_repository": "benpaoy-dot/zizuobao",
+  "repository_destination_status": "candidate_only_not_uploaded",
+  "official_documentation_fetched": "https://developers.openai.com/api/docs/guides/image-generation",
+  "checked_date": "2026-10-28"
+}

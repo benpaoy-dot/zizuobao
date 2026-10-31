@@ -1,0 +1,46 @@
+SH08 竹篾里的手艺
+成片时间 35—39秒  单镜4秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/原始三视图_仅风格参考.png
+职责 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Frozen frame: Close detail, 85mm-equivalent close-focus view from about 35 degrees above a pale timber craft table under a bamboo-side shelter. Only the hands and linen apron cuffs of an adult woman artisan are visible. Both hands stabilize a small existing bamboo weave sample; the right fingertips hold one rounded, pre-smoothed bamboo strip directly above a ready crossing. The crossing and both hands are sharp enough to read. Soft left daylight shows natural bamboo fibers and matte woven textures. This is the frozen start of one careful press, not several stages. No blades, power tools, child hands or lettering.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度4秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：手部近景；85mm等效近摄；木桌和竹篾交点清楚，成人手腕入画。 初始持物和姿态：竹艺师傅双手在木桌上扶住一张小型竹编样片，右手捏着已经对准交点的一根圆滑竹篾。
+
+【场景状态】
+竹林边有遮棚的竹艺体验桌。棚下左侧柔光，竹篾边缘有细小亮线，表面不是塑料。 只用预处理圆滑竹篾；不拍孩子持刀、不把原生枝叶当垃圾清理。
+
+【情绪目标】
+先看清本地手艺，再让来访者参与。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—3秒：右手把一根竹篾缓缓压入已形成的交点。 摄影过程：俯视约35度固定机位；焦点覆盖两手及交点，不追着手运动。
+3—4秒：交点稳定，双手仍在桌面范围内。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：一根竹篾，编进日常。
+声音：竹篾轻摩擦和桌面接触声，在本镜有可辨停留。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+无必需文字，制作者信息待合作后再加。
+出镜剪辑
+手艺动作切到同一桌的体验全貌。

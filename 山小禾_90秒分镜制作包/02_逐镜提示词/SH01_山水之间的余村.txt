@@ -1,0 +1,46 @@
+SH01 山水之间的余村
+成片时间 00—05秒  单镜5秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/原始三视图_仅风格参考.png
+职责 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Frozen frame: Extreme wide establishing frame, 28mm-equivalent perspective, camera just above a public walking path. A stone path begins at lower left, leads toward a modest contemporary Zhejiang village of white walls and grey roofs in the middle distance, with softly rolling wooded hills behind. Only a few bamboo leaves frame the upper corners; buildings and hills are fully legible. Morning sunlight from upper screen left. No people in the frame. Reserve a quiet lower margin for later editing; all surfaces remain unlettered.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度5秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：大全景；28mm等效视感；略高于步道的人眼机位。前景竹叶只占上角，中景白墙灰顶当代村居，背景是起伏低山。 初始持物和姿态：空镜。石质步道从左下延伸到中景；村居和山形已经完整可辨。
+
+【场景状态】
+村外开放步道远眺概念景观。上午柔和日光来自画面左上；浅蓝天空，绿色有层次，不是云海日出。 仅为余村题材艺术化场景，不复制参考图里的石拱桥、尖峰和古镇。
+
+【情绪目标】
+先给当下健康的村庄，不用灾难画面误导现状。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—4秒：只有前景两簇竹叶轻轻摆动。 摄影过程：三脚架固定。用停留让观众看清村与山的关系，不做穿林航拍。
+4—5秒：村居、路径和低山仍完整在框，留出下方字幕安全区。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：这里是安吉余村。
+声音：近处竹叶风声，远处轻鸟鸣；音乐从低音量木吉他进入。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+后期加地名“浙江安吉 余村”；片头注明“乡村文旅设计概念动画”。
+出镜剪辑
+沿步道的画面走向，硬切到同向人物行进。

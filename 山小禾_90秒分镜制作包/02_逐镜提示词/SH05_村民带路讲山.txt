@@ -1,0 +1,47 @@
+SH05 村民带路讲山
+成片时间 19—25秒  单镜6秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/山小禾_侧面_原图裁切.png
+职责 身份和造型；不控制本镜构图、背景或光位。手部镜仅继承袖口、手形与同一媒介。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 身份和造型；不控制本镜构图、背景或光位。手部镜仅继承袖口、手形与同一媒介。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Identity lock: Shan Xiaohe is exactly the SINGLE leaf-haired childlike mascot from the supplied original reference, not a human child or a new character. Keep the layered sage-green leaf-shaped hair, single curled sprout, small pale leaf accents, large olive-brown eyes, round rosy cheeks, beige cross-collar inner garment, loose sage jacket, beige woven apron, dark sage trousers, woven straw shoes, and bamboo basket backpack with restrained greenery. Preserve the reference face, body proportions and silhouette; adapt pose and illumination only. The reference is an identity/material reference, not a layout to copy; do not copy its three-view layout, lettering, water-town buildings or steep fantasy mountains.
+Frozen frame: Medium-wide two-person frame, 35mm-equivalent, from inside a safe public hillside walking path. Shan Xiaohe occupies the left foreground, body turned toward a grey-haired local villager in an unmarked dark-blue work shirt on screen right. Shan Xiaohe holds the closed kraft notebook in the left hand, right hand relaxed. The villager stands beside a simple timber safety rail, right forearm relaxed and ready for a small pointing gesture; both are safely on the path side. A healthy planted green slope and rolling bamboo-covered hills fill the background. Daylight from upper screen left. The villager is rendered in the same soft handcrafted 3D medium, with adult proportions, not a photoreal human.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度6秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：双人中远景；35mm等效；山小禾左前景、村民讲解员右中景，绿色缓坡在后方。 初始持物和姿态：两人停在步道护栏内侧；村民面向画面左前方，手臂放松；山小禾朝向村民，左手持合上的册子。
+
+【场景状态】
+可开放的修复地观察步道。日光由画面左上投下，护栏和人脸不出现相反方向阴影。 讲解员为灰发、深蓝工作衫的同一村民；不能穿制服冒充管理机构。
+
+【情绪目标】
+让村民成为讲述者，说明山水来自长期共同守护。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—4秒：村民用右手平缓指向远处已经复绿的缓坡。 摄影过程：固定双人构图，从这侧看两人的关系和被指向的山；不切反打或跨到护栏外。
+4—6秒：手掌停在指示位置，山小禾视线顺着指向看向山坡。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：不是一个人的魔法，是一代代人的守护。
+声音：近处村民讲解的自然声氛围可由后期补录，明确内容由旁白承担。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+可加“村民讲述 生态转型”的小字幕，点位不标为既有官方站点。
+出镜剪辑
+按村民手势所指切到绿色山坡细节。

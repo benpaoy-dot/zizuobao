@@ -1,0 +1,46 @@
+SH06 复绿不是一瞬间
+成片时间 25—30秒  单镜5秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/原始三视图_仅风格参考.png
+职责 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Frozen frame: Landscape detail, 85mm-equivalent from a public overlook, showing an already healthy restored green hillside. A few bamboo leaf tips occupy the near left edge, varied low shrubs fill the middle slope and a small pale rock patch remains partly visible at the back. Layered vegetation is established, not sprouting or transforming. Soft upper-left daylight reveals different matte leaf textures and deep green shade. No people, machinery, active quarry, barren foreground, ecological before-and-after split or supernatural green glow.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度5秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：环境中景；85mm等效压缩层次；近处竹叶，中层多种灌木，远处浅色山石仅少量露出。 初始持物和姿态：绿色缓坡覆盖已经形成，所有植物处于同一晴日状态。
+
+【场景状态】
+同一观察步道可见的绿坡。承接前镜左上日光，叶面有柔亮，阴处仍有绿色细节。 现状绿色与历史展陈严格分开；不额外设计正在开采的矿坑。
+
+【情绪目标】
+在健康植被上停留，不演成一夜变绿。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—4秒：微风掠过近处叶尖，植被覆盖不发生变化。 摄影过程：固定长焦观察；不延时、不缩时生长、不颜色突变。
+4—5秒：叶尖回落，山坡依然与开镜一致。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：让山慢慢变绿，让生活有了新可能。
+声音：持续叶声；音乐恢复一点空间，不加魔法音效。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+无必需文字；如果需要修复年代，须核实后再加。
+出镜剪辑
+用同样的叶形硬切入竹林。

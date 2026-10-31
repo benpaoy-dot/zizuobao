@@ -1,0 +1,46 @@
+SH03 山留下的记忆
+成片时间 10—14秒  单镜4秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/原始三视图_仅风格参考.png
+职责 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Frozen frame: Close view, 65mm-equivalent, slightly looking down at a wooden museum display case inside a small contemporary village exhibition room. Inside the case is an unmistakably miniature handcrafted historical quarry diorama: a grey-brown cut rock slope and a tiny unoccupied mine cart. The miniature scale, crafted model textures and surrounding wooden case are clearly visible. A small blank cream information plaque is beside it. Soft window light enters from screen left. No mascot, no real miners, no documentary photograph, no fire, no smoke. The image depicts an exhibition model, not a present-day landscape.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度4秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：展柜近景；65mm等效；略俯视。木框展柜内为灰褐色的旧矿业手作模型，人物不入画。 初始持物和姿态：展柜里已经摆好小型采石坡面与矿车模型；旁边留一块素色说明牌。
+
+【场景状态】
+村庄展示空间的历史情境模型。室内左侧窗光；木框暖色，历史模型低饱和，非整片突然变黑白。 本镜不用未授权历史照片；模型是艺术化回望，不是史实现场复原。
+
+【情绪目标】
+把过去与今天分开；交代开采历史，不伪造新闻或档案。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—3秒：摄影机轻推，让观众看清模型的断面和矿车。 摄影过程：微型直线滑轨前推，取景由完整展柜收至模型主体，末尾不裁掉全部展柜边缘。
+3—4秒：仍可见展柜木框，明确这是室内展陈，不是今天的实景。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：山，也记得过去。
+声音：室内轻混响，音乐略收，远处自然风声弱化。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+全镜加小字“历史情境示意 非档案影像”；有合法档案授权后才可替换。
+出镜剪辑
+硬切到山小禾记录；不把模型溶成现实矿山。

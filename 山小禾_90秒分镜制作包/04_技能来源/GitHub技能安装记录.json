@@ -1,0 +1,26 @@
+{
+  "checked_date": "2026-10-28",
+  "installed_skills": [
+    {
+      "name": "short-drama-storyboard",
+      "repo": "https://github.com/zenstory-ai/drama-skills",
+      "path": "skills/short-drama-storyboard",
+      "commit": "fdb7b7c58017e3eae64eca382c2a85ede368dab0",
+      "license": "MIT",
+      "local": "Codex技能目录/short-drama-storyboard",
+      "used": "冻结首帧只写一个瞬间；起点 主要动作 终点；身份与起始帧分工；持物及轴线连续。",
+      "skill_sha256": "fec0a090c48b8939cdd5302937446faf2ffbbca26bf596e69e2b32dd8153067e"
+    },
+    {
+      "name": "cinematic-video-prompt",
+      "repo": "https://github.com/Rylaispirit/cinematic-video-prompt-skill",
+      "path": ".",
+      "commit": "389c193cecafa6118989a2938b7cedc49be2456b",
+      "license": "MIT",
+      "local": "Codex技能目录/cinematic-video-prompt",
+      "used": "用有限的机位 光线和运动词表达拍法；一镜一个主要动作；标题字幕后期加入。社区所述模型经验不当作供应商保证。",
+      "skill_sha256": "153d0a4f03615f48b3d31e80dcd2031fadfbd6cdab0f088609843bd4052d923c"
+    }
+  ],
+  "execution_scope": "仅安装并读取技能资料；没有执行下载技能中的外部API、上传、付费生图或视频任务。"
+}

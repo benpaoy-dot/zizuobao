@@ -1,0 +1,47 @@
+SH13 巡行变成故事地图
+成片时间 60—65秒  单镜5秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/山小禾_正面_原图裁切.png
+职责 身份和造型；不控制本镜构图、背景或光位。手部镜仅继承袖口、手形与同一媒介。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 身份和造型；不控制本镜构图、背景或光位。手部镜仅继承袖口、手形与同一媒介。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Identity lock: Shan Xiaohe is exactly the SINGLE leaf-haired childlike mascot from the supplied original reference, not a human child or a new character. Keep the layered sage-green leaf-shaped hair, single curled sprout, small pale leaf accents, large olive-brown eyes, round rosy cheeks, beige cross-collar inner garment, loose sage jacket, beige woven apron, dark sage trousers, woven straw shoes, and bamboo basket backpack with restrained greenery. Preserve the reference face, body proportions and silhouette; adapt pose and illumination only. The reference is an identity/material reference, not a layout to copy; do not copy its three-view layout, lettering, water-town buildings or steep fantasy mountains.
+Frozen frame: Close oblique overhead frame, 65mm-equivalent, at about 60 degrees above the same pale timber tea table. An open stitched kraft notebook with green cloth spine occupies the central two-thirds. The left hand of Shan Xiaohe pins the lower-left page margin; the right hand in the same sage sleeve holds a short pencil just above the end of an existing short dotted trail. The page already carries only three simple unlettered icons: a low hill at upper left, a bamboo leaf at upper right and a curving creek at lower right. Do not create a detailed geographic map. A small amount of tabletop remains at upper right; soft light enters screen left. One frozen poised writing instant, no animation of icons or text.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度5秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：近俯拍；65mm等效；打开的册页占画面三分之二，左下为绿色衣袖，右上留少量桌面。 初始持物和姿态：山小禾左手按册页下边，右手握铅笔停在一条虚线的末端；页上仅有低山、竹叶和溪流的简笔图形。
+
+【场景状态】
+茶桌上的巡行手册。继承左窗光，纸页清楚、无刺眼反光，手部阴影朝右下。 这是概念路线，不对应真实导航坐标；字符、图例与点位均后期完成。
+
+【情绪目标】
+从单个体验转为可阅读的路线，手册成为全片线索。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—4秒：右手延长一小段已有的路线虚线。 摄影过程：固定俯视约60度，避免正顶拍让角色肩膀和背篓压住画面。
+4—5秒：铅笔停在终点图标旁，册页和左手位置不变。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：把走过的路，记成一张山野地图。
+声音：铅笔细声；音乐重回明亮但不煽情。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+后期精修图形，必要时小字“设计概念路线 非导航地图”。
+出镜剪辑
+同一册页位置匹配切到盖章近景，不更换地图方向。

@@ -1,0 +1,46 @@
+SH18 把山野的故事带走
+成片时间 84—90秒  单镜6秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/原始三视图_仅风格参考.png
+职责 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 仅材质与色彩风格；不复制主角、背景山形、古桥、字板和布局。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Frozen frame: Close tabletop still-life, 50mm-equivalent, with the same closed palm-sized kraft patrol notebook at lower left. It has a warm cream cover, stitched sage-green cloth spine and no lettering. One finished woven bamboo bookmark lies neatly beside it; no freshly picked plants. The upper-right half is quiet pale timber and soft bamboo-green background bokeh reserved for later end titles. Afternoon light from upper screen left reveals paper fibers and bamboo weave. No people, hands, printed slogans, floating objects, glows or animated map. Keep the entire notebook and bookmark inside frame with room for a gentle later pullback.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度6秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：静物近景；50mm等效；合上的巡行册在左下，右上是清浅竹林散景和素净桌面。 初始持物和姿态：米色册封、绿色布脊和一枚素色竹编书签已放好，封面无字；没有人物。
+
+【场景状态】
+竹木桌上的巡行册片尾静物。接下午左上柔光，纸张纤维与编织纹理清楚，暗部不发灰。 片尾册封仍是同一绿布脊、米色纸；自然物不从野外采摘摆拍。
+
+【情绪目标】
+以贯穿全片的手册收尾，为品牌标题留干净落版空间。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—4秒：摄影机缓慢拉远少许，露出更多右上方留白。 摄影过程：短直线滑轨后移约一掌距离，前四秒完成，最后两秒收稳；不抬升揭示未知空间。
+4—6秒：册子与书签保持位置；最后两秒构图稳定供片尾落字。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：山野有禾，生活很甜。
+声音：最后一句后保留一秒以上竹叶声，音乐自然尾音，不突断。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+后期加“山小禾”“山野有禾 生活很甜”；小字“以余村为在地背景的文旅设计概念”。
+出镜剪辑
+最后2秒持住画面；剪辑软件加入片尾文字后结束，可轻淡黑。

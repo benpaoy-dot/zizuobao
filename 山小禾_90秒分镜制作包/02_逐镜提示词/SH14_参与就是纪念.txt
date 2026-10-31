@@ -1,0 +1,47 @@
+SH14 参与就是纪念
+成片时间 65—69秒  单镜4秒
+状态 图片未生成
+
+生图时实际参考图
+01_角色参考/山小禾_正面_原图裁切.png
+职责 身份和造型；不控制本镜构图、背景或光位。手部镜仅继承袖口、手形与同一媒介。
+
+图片提示词 只生成一个冻结瞬间
+Use case: illustration-story
+Asset type: one independent storyboard starting keyframe for image-to-video, not a contact sheet
+Input image: 身份和造型；不控制本镜构图、背景或光位。手部镜仅继承袖口、手形与同一媒介。
+Style/medium: A single clean 16:9 film keyframe in the same handcrafted soft 3D animation medium as the supplied original character reference. Tactile linen, woven bamboo fibers, matte rounded forms and soft natural light; sage green, warm cream and pale timber palette. Natural spherical-lens perspective, controlled highlights, readable shadows, gentle depth separation rather than indiscriminate blur. An original rural ecological-tourism story, not live-action photography or flat 2D art.
+Identity lock: Shan Xiaohe is exactly the SINGLE leaf-haired childlike mascot from the supplied original reference, not a human child or a new character. Keep the layered sage-green leaf-shaped hair, single curled sprout, small pale leaf accents, large olive-brown eyes, round rosy cheeks, beige cross-collar inner garment, loose sage jacket, beige woven apron, dark sage trousers, woven straw shoes, and bamboo basket backpack with restrained greenery. Preserve the reference face, body proportions and silhouette; adapt pose and illumination only. The reference is an identity/material reference, not a layout to copy; do not copy its three-view layout, lettering, water-town buildings or steep fantasy mountains.
+Frozen frame: Extreme close detail, 85mm-equivalent, of the lower-right blank area of the same notebook page on the same timber table. A small creek icon is partly visible near the page corner. Shan Xiaohe left fingertips in a sage sleeve pin the page margin. The right hand already grips a short simple wooden stamp vertically; its flat base is held one finger-width above the blank paper square. A short pencil rests separately at the upper-right edge of the table. Soft window light from screen left, paper and wood remain matte. Keep each finger, stamp base and page physically separate. No stamped characters, existing dense print, tool swapping or multiple impressions.
+Constraints: No text, captions, logos, watermarks, borders or storyboard panels. No duplicate living mascot, outfit changes, winged fairies, glowing magic, extra fingers or merged hands. No plastic gloss, photoreal humans, karst towers, imperial old town, canal arch bridge or pagoda. No present-day toxic pollution, instant magical restoration, firefly spectacle, animal collection, off-trail walking or invented official village signs. No motion blur, action montage or multiple moments in a still.
+
+图生视频母稿 需先有合格首帧
+【生成任务】
+本镜目标使用长度4秒，16:9，项目按24fps剪辑。单一连续镜头，不在镜内自行切镜。将本镜经检查的独立首帧作为图生视频输入；目前图片尚未生成，本段是待执行母稿。平台未指定，生成档位如长于本镜则保留完整动作后裁取，不能压缩动作硬塞。
+
+【视觉风格】
+沿用用户三视图的软质三维手作动画：叶片状鼠尾草绿头发、亚麻织纹、竹编纤维和圆润哑光皮肤。竹绿、米白、浅木色为主，日光自然，暗部保留层次；不加重胶片颗粒，不转真人或二维。普通球面镜头视感，近景保持眼睛和重要接触点清晰，远景保留环境纵深。 保留本镜首帧的身份、材质、光位和空间关系；固定曝光和自然白平衡，不使用情绪驱动变色。
+
+【主要主体】
+本镜主体与取景：手部特写；85mm等效；册页右下的留白印章区，画框保留一点既有溪流图标。 初始持物和姿态：左手仍压页边；右手已竖直握住木柄小章，章底距离纸约一指宽。
+
+【场景状态】
+同一册页的留白区。同一左窗光和同一纸色；印章只用绿色简单叶形。 左手固定页，右手盖章；上一镜的铅笔已经放在桌子右上方，换镜省略换工具。
+
+【情绪目标】
+用盖章给参与一个明确落点。 表情和动作克制，旁白在后期添加，人物不对口型。
+
+【分段脚本】
+0—1秒：保留首帧站位和构图，让观众辨认主体。
+1—3秒：右手把印章向下压到纸面，末尾停住，不强求模型抬章显示复杂文字。 摄影过程：固定特写；画面专注一个接触动作，视觉反馈和印迹由后期补足。
+3—4秒：印章底座贴住册页；手指和纸页不变形。 动作自然收住，环境仍按物理规律持续，不冻结人物。
+台词：无。后期旁白：参与，是最好的纪念。
+声音：清楚而克制的木章落纸声，压在音乐节拍上。 全部可在后期制作，不依赖视频模型同时准确出声音。
+
+【负面提示词】
+不在片段内切镜、不变景、不换人不换衣、不镜像翻转、不新增道具或路人、不出现多余肢体或手部融合、不穿模、不忽快忽慢、不漂浮、不夸张摇晃；不加字幕字标、水印、闪光、魔法生长或无来源光效。
+
+后期处理
+后期在抬章替代剪辑或定格里加入绿色叶形印迹，不生成汉字印文。
+出镜剪辑
+以木章落下的声音硬切到竹编小物落入顾客手中。
